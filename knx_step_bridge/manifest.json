@@ -2,9 +2,9 @@
   "domain": "knx_step_bridge",
   "name": "KNX Step ↔ Percent Bridge",
   "version": "0.1.0",
-  "documentation": "https://example.invalid/knx_step_bridge",
+  "documentation": "https://github.com/AdamWeglarz/HA-KNX-FAN-step-translation/blob/main/knx_step_bridge/manifest.json",
   "requirements": [],
   "after_dependencies": ["knx"],
-  "codeowners": ["@twoj-nick"],
+  "codeowners": ["@AdamWeglarz"],
   "iot_class": "local_push"
 }
